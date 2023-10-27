@@ -1,0 +1,85 @@
+img[src^=homemenubar] {
+position: absolute;
+top: 66px;
+left: -1px;
+
+}
+
+img[src^=demaelogo] {
+position: absolute;
+top: 10px;
+left: 5px;
+
+}
+
+img[src^=hometext1] {
+position: absolute;
+top: 115px;
+left: 0px;
+z-index: 1;
+
+}
+
+img[src^=restaurantlogos] {
+position: absolute;
+top: 145px;
+left: 0px;
+z-index: 1;
+
+}
+
+img[src^=order] {
+position: absolute;
+top: 270px;
+left: 35px;
+z-index: 1;
+
+}
+
+img[src^=orderhistory] {
+position: absolute;
+top: 10px;
+left: 700px;
+z-index: 1;
+
+}
+
+img[src^=homeicon] {
+position: absolute;
+top: 73px;
+left: 7px;
+z-index: 1;
+
+}
+
+img[src^=favoritesicon] {
+position: absolute;
+top: 73px;
+left: 95px;
+z-index: 1;
+
+}
+
+img[src^=orderhistory] {
+position: absolute;
+top: 73px;
+left: 200px;
+z-index: 1;
+
+}
+
+img[src^=carticon] {
+position: absolute;
+top: 73px;
+left: 330px;
+z-index: 1;
+
+}
+
+img[src^=updateinfo] {
+position: absolute;
+top: 270px;
+left: 447px;
+z-index: 1;
+
+}
