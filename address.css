@@ -1,0 +1,149 @@
+.orderbar {
+	position: absolute;
+	top: 73px;
+	left: -1px;
+}
+
+.select {
+	position: absolute;
+	top: 78px;
+	left: -1px;
+}
+
+.demaeman {
+	position: absolute;
+	top: 140px;
+	left: 10px;
+}
+
+.login {
+	position: absolute;
+	top: 205px;
+	left: 10px;
+}
+
+.recent {
+	position: absolute;
+	top: 305px;
+	left: 10px;
+}
+
+.location {
+	position: absolute;
+	top: 505px;
+	left: 10px;
+}
+
+.zip {
+	position: absolute;
+	top: 405px;
+	left: 10px;
+}
+
+.guide {
+	position: absolute;
+	top: 605px;
+	left: 10px;
+}
+
+.divider1 {
+	position: absolute;
+	top: 73px;
+	left: 590px;
+}
+
+.divider2 {
+	position: absolute;
+	top: 73px;
+	left: 900px;
+}
+
+.menu {
+	position: absolute;
+	top: 205px;
+	left: 515px;
+}
+
+.addressicon {
+	position: absolute;
+	top: 215px;
+	left: 530px;
+}
+
+.regionbutton {
+	position: absolute;
+	top: 275px;
+	left: 530px;
+}
+
+.county {
+	position: absolute;
+	top: 275px;
+	left: 676px;
+}
+
+.city {
+	position: absolute;
+	top: 275px;
+	left: 822px;
+}
+
+.street {
+	position: absolute;
+	top: 275px;
+	left: 968px;
+}
+
+.block {
+	position: absolute;
+	top: 275px;
+	left: 1114px;
+}
+
+.select1 {
+	position: absolute;
+	top: 330px;
+	left: 1145px;
+}
+
+.select2 {
+	position: absolute;
+	top: 370px;
+	left: 1145px;
+}
+
+.select3 {
+	position: absolute;
+	top: 410px;
+	left: 1145px;
+}
+
+.select4 {
+	position: absolute;
+	top: 450px;
+	left: 1145px;
+}
+
+.select5 {
+	position: absolute;
+	top: 490px;
+	left: 1145px;
+}
+
+.select6 {
+	position: absolute;
+	top: 530px;
+	left: 1145px;
+}
+
+.select7 {
+	position: absolute;
+	top: 570px;
+	left: 1145px;
+}
+
+.select8 {
+	position: absolute;
+	top: 610px;
+	left: 1145px;
+}
